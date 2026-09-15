@@ -11,9 +11,9 @@
     "code": "vi"
   },
   "inference": {
-    "noise_scale": 0.28,
-    "length_scale": 1.42,
-    "noise_w": 0.45
+    "noise_scale": 0.05,
+    "length_scale": 1.25,
+    "noise_w": 0.15
   },
   "phoneme_type": "espeak",
   "phoneme_map": {},
